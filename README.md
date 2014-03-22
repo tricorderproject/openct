@@ -1,10 +1,10 @@
 openct
 ======
 
-Open Source Computed Tomography (CT) Scanner
-http://www.tricorderproject.org/openct
-Copyright (C) 2014  Peter Jansen and the Tricorder project 
-peter@tricorderproject.org
+Open Source Computed Tomography (CT) Scanner <br>
+http://www.tricorderproject.org/openct <br>
+Copyright (C) 2014  Peter Jansen and the Tricorder project <br>
+peter@tricorderproject.org <br>
 
 *Early alpha release v0.1*
 
