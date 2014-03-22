@@ -12,9 +12,9 @@ One of the most common questions an organizer of an open source project receives
 
 - *End-stops:* Add end-stops ("limit switches") to each of the two linear axes, table axis, and rotational axis. 
 
-- *Cabling:* Find a better solution to cable routing.  Cable routing is currently an issue, and there are a number of cables and signals that have to move from the rotating bore to the controller/arduino shield on the stationary base.  The rotational axis has to have at least 180� of rotation, meaning that at one extreme it has a lot of slack, and at the other it has zero slack.  
+- *Cabling:* Find a better solution to cable routing.  Cable routing is currently an issue, and there are a number of cables and signals that have to move from the rotating bore to the controller/arduino shield on the stationary base.  The rotational axis has to have at least 180&deg; of rotation, meaning that at one extreme it has a lot of slack, and at the other it has zero slack.  
 
-- *Cabling, Part 2:* Is cabling the answer?  Should we turn the bore into a giant slip ring with two lines (+5V, GND) so that it can freely rotate 360�, and wirelessly communicate between the bore and base using (for example) bluetooth? 
+- *Cabling, Part 2:* Is cabling the answer?  Should we turn the bore into a giant slip ring with two lines (+5V, GND) so that it can freely rotate 360&deg;, and wirelessly communicate between the bore and base using (for example) bluetooth? 
 
 # Electronics
 
