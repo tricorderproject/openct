@@ -1,0 +1,73 @@
+This source archive contains multiple source files, under the following licenses.
+
+----
+  
+In addition to the license(s), the author(s) of this project ask that you 
+participate in the Open Hardware Better World pledge.
+
+The spirit of the Open Hardware Better World pledge is the belief that 
+a large portion of the social and economic issues that are present in 
+portions of both the developed and undeveloped world are a direct 
+response to poor literacy and poor education, and that helping to educate 
+folks will enable them to make informed choices that effect positive 
+social change.  
+
+1) CHARITABLE DONATIONS: Should you take in revenue or otherwise profit 
+   through the use of this project, you are kindly asked to donate at 
+   least 1% of that revenue to a science education or basic literacy 
+   charity of your choice.  You are encouraged to choose a charity that:
+    - Does not discrimiate based on race, gender, faith, or sexual 
+      orientation, and 
+    - That uses at least 75% of its donations to further its 
+      charitable mission (ie. not operating costs)
+   
+2) KEEPING IN TOUCH: Because there are few things better than waking up
+   and learning that one of your projects has helped someone, should 
+   you use this project to do amazing things, please consider sending a 
+   note to the author(s) to let them know.  Their contact information is 
+   in CONTRIB.TXT   
+
+
+----
+
+Open Source Computed Tomography (CT) Scanner Schematics, Board Layout,
+and Structural/Mechanical Designs and Supporting Materials
+(http://www.tricorderproject.org/openct)
+Copyright (C) 2014  Peter Jansen and the Tricorder project 
+(peter@tricorderproject.org)
+
+This Open Hardware is distributed under the terms of the 
+Creative Commons Attribution-ShareAlike 4.0 International License.
+You should have received a copy of the CC-BY-SA 4.0 International
+License with these source files.  If not, see 
+<http://creativecommons.org/licenses/by-sa/4.0/>.
+
+These files are distributed in the hope that they will be useful,
+but WITHOUT ANY WARRANTY; without even the implied warranty of
+MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
+CC-BY-SA 4.0 International License for more details.
+
+
+----
+
+Open Source Computed Tomography (CT) Scanner Arduino Firmware 
+(http://www.tricorderproject.org/openct)
+Copyright (C) 2014  Peter Jansen and the Tricorder project 
+(peter@tricorderproject.org)
+
+This license applies to software written exclusively by the above 
+author. The software/firmware in this package requires linking to 
+external third-party libraries in order to function.
+
+This program is free software: you can redistribute it and/or modify
+it under the terms of the GNU General Public License as published by
+the Free Software Foundation, either version 3 of the License, or
+(at your option) any later version.
+
+This program is distributed in the hope that it will be useful,
+but WITHOUT ANY WARRANTY; without even the implied warranty of
+MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
+GNU General Public License for more details.
+
+You should have received a copy of the GNU General Public License
+along with this program.  If not, see <http://www.gnu.org/licenses/>.

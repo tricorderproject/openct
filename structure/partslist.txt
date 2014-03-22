@@ -1,0 +1,69 @@
+
+========================
+	GENERAL
+========================
+
+- T-slot captive nut holes are generally for 6/32 machine screws, 1/2 inch length. 
+  A box of 100x 6/32 size 1/2 inch length bolts, nuts, and washers should suffice
+  for most of the structural components.  A handful of longer lengths are required
+  for the linear axis end plates and the carriage mounts. 
+
+
+
+========================
+	TABLE
+========================
+
+- MOTOR: NEMA14 5mm shaft [QTY: 1]
+(Recommended: Japan Servo Co. Ltd. KP35FM2-035 from Sayal Electronics) 
+(http://www.sayal.com)
+
+- SCREW: M8 Nylon Screw and Nut.  [QTY: 1]
+(Recommended: McMaster-Carr #98882A800, #93800A154)
+
+- COUPLER: M5 to M8 Flex coupler
+(Recommended: http://www.adafruit.com/products/1176 )
+
+
+========================
+	LINEAR AXES
+========================
+
+- MOTOR: NEMA14 5mm shaft [QTY: 2]
+(Recommended: Japan Servo Co. Ltd. KP35FM2-035 from Sayal Electronics)
+
+- BELT: At least 4 feet of 6mm width MLX (2.03mm pitch) belt.
+(Recommended: Trim down SDP/SI (sdp-si.com) #A 6Z16MB89060 [QTY: 1])
+
+- TIMING PULLEYS: SDP/SI (sdp-si.com) #A 6T16M018DF6005 [QTY: 2]
+
+- IDLER PULLEYS: Makerslide Smooth Idler Wheel Kit [QTY: 2]
+https://www.inventables.com/technologies/smooth-idler-wheel-kit
+Also requires M5 bolts and lock nuts
+
+- BUSHING: 1/4 Inner-diameter, 3/8 Outer-diameter snap bushing [QTY: 8]
+(Recommended: from ACE Hardware)
+
+- RODS: 1/4 aluminum rods, approx. 6 inches. [QTY: 4]
+(Recommended: Cut from two 12 inch aluminum rods)
+
+========================
+	ROTATIONAL AXIS
+========================
+
+- MOTOR: NEMA17 5mm shaft [QTY: 1]
+( Recommended: Adafruit http://www.adafruit.com/products/324 )
+
+- BELT: SDP/SI (sdp-si.com) #A 6B16-115025 [QTY: 1]
+
+- TIMING PULLEY: SDP/SI (sdp-si.com) #A 6T16M022DF6005 [QTY: 1]
+
+========================
+	BASE
+========================
+
+- BUSHING: 1/4 Inner-diameter, XX Outer-diameter, with flange
+(Recommended: from ACE Hardware)
+
+- RODS: 1/4 inch rods for timing gears, approx. 4 inches (cut to size) [QTY: 2]
+(Recommended: Cut from one 12 inch aluminum rod)

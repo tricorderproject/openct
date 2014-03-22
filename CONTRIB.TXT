@@ -1,0 +1,11 @@
+Open Source Computed Tomography (CT) Scanner 
+(http://www.tricorderproject.org/openct)
+Contributors
+
+Peter Jansen	<peter@tricorderproject.org>
+
+
+CHANGE LOG
+===========
+
+March 19/2014	Initial alpha release (v0.1)
